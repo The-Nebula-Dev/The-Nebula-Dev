@@ -27,7 +27,7 @@ As said Above We Do Website Development and Bot Development. To get a quote from
 Here's A list of ways to contact us! 
 
 - **Email:** contact@thenebuladevelopers.com
-- **Instagram** [@NebulaDevelopers]([https://www.thenebuladevelopers.com](https://www.instagram.com/thenebuladevelopers/))
+- **Instagram** [NebulaDevelopers]([https://www.thenebuladevelopers.com](https://www.instagram.com/thenebuladevelopers/))
 - **GitHub:** [The Nebula Developers](https://github.com/TheNebulaDevelopers)
 - **Twitter (X):** [The Nebula Devs](https://twitter.com/thenebuladevs)
 - **Discord:** [The Nebula Developers](https://discord.gg/eJjArk3grp)
